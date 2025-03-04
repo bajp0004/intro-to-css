@@ -46,7 +46,7 @@ a > img{
  margin-top: 1em;
 }
 
-ol > li:nth-child(even) {
+ol li:nth-child(even) {
   color: #dc33dc;
 }
 
